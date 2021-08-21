@@ -1,0 +1,2 @@
+# coinindex-cli
+coinindex-cli
